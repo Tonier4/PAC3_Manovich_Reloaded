@@ -10,6 +10,7 @@ En aquest assaig s’analitzen dos casos recents que exemplifiquen aquesta hibri
 
 ## Exemple 1 - Fortnite com a espai cultural
 ![](https://github.com/Tonier4/PAC3_Manovich_Reloaded/blob/main/github_1.jpeg)
+
 Fortnite, desenvolupat per Epic Games i llançat el 2017, va néixer com un videojoc de supervivència i combat en format “battle royale”. No obstant això, en pocs anys ha evolucionat cap a un espai molt més ampli i complex, convertint-se en una plataforma d’experiències digitals que desborden els límits tradicionals del videojoc. Aquest procés de transformació representa un clar exemple d’hibridació contemporània.
 
 En primer lloc, la seva base com a videojoc interactiu es combina amb elements propis de les xarxes socials (avatars personalitzats, interacció amb amics, xats en temps real), però també amb formats culturals com els concerts en viu, esdeveniments narratius o estrenes cinematogràfiques. Un exemple destacat és el concert virtual del raper Travis Scott el 2020, que va atreure més de 12 milions d’usuaris simultanis. No es tractava només d’un concert en un videojoc, sinó d’una experiència audiovisual immersiva, interactiva i coreografiada, dissenyada específicament per al motor gràfic del joc. “Hasta ahora, sigue siendo el mejor show musical en vivo del videojuego hasta ahora.” (MOR.BO, 2024)
@@ -20,6 +21,7 @@ Fortnite no és només un videojoc, és un ecosistema híbrid que integra l’en
 
 
 ## Exemple 2 - Concerts amb hologrames: espectacle en viu, realitat digital i immortalitat virtual
+![](https://github.com/Tonier4/PAC3_Manovich_Reloaded/blob/main/github_2.jpeg)
 
 Els concerts amb hologrames han esdevingut una nova forma de consum cultural que exemplifica de manera clara el concepte d’hibridació. Es tracta d’esdeveniments en què artistes virtuals (sovint difunts, com Michael Jackson o Whitney Houston) tornen a “pujar a l’escenari” en forma d’hologrames tridimensionals generats per ordinador. Aquest fenomen representa una fusió profunda entre la cultura de l’espectacle en viu i la realitat digital recreada pel programari, obrint una nova dimensió tant en l’experiència de l’usuari com en el concepte mateix d’autoria i presència.
 
